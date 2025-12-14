@@ -75,7 +75,9 @@ Key measures created using DAX:
 
 > *Below is the complete Power BI dashboard snapshot showcasing KPIs, trends, and performance insights.*
 
-![Virat Kohli Power BI Dashboard](https://raw.githubusercontent.com/Asaxena7124/Virat-Kohli-Dashboard/main/Background%20Image.jpg)
+
+![Virat Kohli Power BI Dashboard](https://raw.githubusercontent.com/Asaxena7124/Virat-Kohli-Dashboard/main/Virat%20Kohli%20Dashboard%20Overview%20Page.png)
+
 
 
 ---
